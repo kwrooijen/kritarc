@@ -1,0 +1,17 @@
+[Shortcuts]
+KisToolSelectOutline=S
+activateNextLayer=Meta+W
+activatePreviousLayer=Meta+S
+add_duplicate_frame=Ctrl+F
+add_new_paint_layer=Meta+N
+filter_apply_again=none
+fullscreen=none
+insert_keyframe_right=Meta+F
+next_frame=Meta+D
+paste_frames_from_clipboard=Meta+V
+previous_frame=Meta+A
+remove_layer=Ctrl+Shift+D
+reselect=none
+selection_tool_mode_subtract=none
+toggle_playback=Meta+R
+view_show_canvas_only=none
